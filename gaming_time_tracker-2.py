@@ -1,16 +1,7 @@
-#!/usr/bin/env python3
-# coding: utf-8
 """
-Gaming Time Tracker
--------------------
-Tracks time spent on gaming websites (by window title keyword) and compares to daily goals.
-Run modes:
-  - tracking:  python gaming_time_tracker.py track [--poll 1.0]
-  - reporting: python gaming_time_tracker.py report
-
-Dependencies: pip install pywinctl matplotlib pandas tldextract tzlocal
-Works on Windows/macOS/Linux using pywinctl to read the active window title.
-Saves data to SQLite (gaming_time.db) and renders a 7-day bar chart (gaming_time_report.png).
+Labor Day Hackathon
+2025
+Isabella Chen
 """
 
 import argparse
