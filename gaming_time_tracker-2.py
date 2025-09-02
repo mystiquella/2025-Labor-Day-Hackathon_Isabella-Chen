@@ -1,7 +1,7 @@
 """
-Labor Day Hackathon
-2025
+Labor Day Hackathon, 2025
 Isabella Chen
+Class of 2031
 """
 
 import argparse
